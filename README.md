@@ -20,7 +20,7 @@ Users should be able to:
 
 ### Screenshot
 
-![My solution](/design/mysolution.png)
+![My solution](./mysolution.png)
 
 ### Links
 
